@@ -1,8 +1,8 @@
-#red-front-pc-template
+# red-front-pc-template
 
 > red前端pc项目的通用模板
 
-##Build Setup
+## Build Setup
 
 本项目基于vue-cli2.9.6，是前端pc版本的通用模板。
 ​
